@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Computer Science undergraduate at National Ocean University
 
 ```javascript
-const thai = {
+const In = {
   code: [SwiftUI, C/C++, Python],
   tools: [TensorFlow, PyTorch, Scikit-Learn, OpenCV],
 }
